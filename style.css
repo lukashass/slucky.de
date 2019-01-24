@@ -3,7 +3,7 @@ body {
   background-repeat: repeat;
   font-family: "Courier New", Courier, monospace;
   line-height: 1.2;
-  background-image: radial-gradient(rgba(255, 255, 255, 0.7), rgba(0, 0, 0, 0.4)), url('back.png');
+  background-image: radial-gradient(rgba(255, 255, 255, 0.7), rgba(0, 0, 0, 0.4)), url('back.svg');
   background-attachment: fixed;
 }
 
