@@ -20,7 +20,7 @@
 }
 */
  
- [class^="icon-"]:before, [class*=" icon-"]:before {
+ [class^="fa-"]:before, [class*=" fa-"]:before {
   font-family: "fa";
   font-style: normal;
   font-weight: normal;
@@ -55,9 +55,9 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-envelope:before { content: '\e800'; } /* '' */
-.icon-twitter:before { content: '\f099'; } /* '' */
-.icon-github:before { content: '\f09b'; } /* '' */
-.icon-xing:before { content: '\f168'; } /* '' */
-.icon-instagram:before { content: '\f16d'; } /* '' */
-.icon-copyright:before { content: '\f1f9'; } /* '' */
+.fa-envelope:before { content: '\e800'; } /* '' */
+.fa-twitter:before { content: '\f099'; } /* '' */
+.fa-github:before { content: '\f09b'; } /* '' */
+.fa-xing:before { content: '\f168'; } /* '' */
+.fa-instagram:before { content: '\f16d'; } /* '' */
+.fa-copyright:before { content: '\f1f9'; } /* '' */
