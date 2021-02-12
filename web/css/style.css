@@ -120,7 +120,6 @@ img {
     grid-column: 2;
     align-self: end;
   }
-  .grid-item {}
   .avatar {
     grid-row: 1 / 4;
   }
